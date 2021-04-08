@@ -6,7 +6,6 @@ module.exports = {
         'cryostat',
         'calibration',
         'data',
-        'charts',
         {
             type: 'category',
             label: 'Markdown instructions',
