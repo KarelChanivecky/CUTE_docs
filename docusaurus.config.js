@@ -2,13 +2,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://karelchanivecky.github.io/',
+  baseUrl: '/CUTE_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Cryogenic Underground Testing Facility',
-  projectName: 'CUTE_hub documentation',
+  organizationName: 'karelchanivecky',
+  projectName: 'CUTE_docs',
   themeConfig: {
     navbar: {
       title: 'CUTE Docs',
