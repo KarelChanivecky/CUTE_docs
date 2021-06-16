@@ -1,7 +1,7 @@
 ---
 id: richard-instructions
 title: richard instructions
-slug: /
+slug: /md_instructions/info
 ---
 
 ## to add a doc page:
